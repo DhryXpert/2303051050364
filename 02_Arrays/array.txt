@@ -1,0 +1,153 @@
+1. Find the Largest and Smallest Element in an Array
+Write a program to find the largest and smallest element in a given array.
+Example:
+Input: [1, 4, 2, 9, 3]
+Output: Largest = 9, Smallest = 1
+
+
+2. Reverse an Array
+Write a program to reverse the elements of an array.
+Example:
+Input: [1, 2, 3, 4, 5]
+Output: [5, 4, 3, 2, 1]
+
+
+3. Find the Missing Number in an Array
+Given an array of n integers from 1 to n+1, with one number missing, find
+the missing number.
+Example:
+Input: [1, 2, 4, 5, 6]
+Output: 3
+
+
+4. Move All Zeros to the End of an Array
+Write a program to move all zeros in the array to the end while
+maintaining the relative order of the non-zero elements.
+Example:
+Input: [0, 1, 2, 0, 3, 0, 4]
+
+
+Output: [1, 2, 3, 4, 0, 0, 0]
+
+
+5. Check if an Array is a Subarray of Another Array
+Write a program to check if one array is a subarray of another array.
+Example:
+Input: arr1 = [1, 2, 3], arr2 = [0, 1, 2, 3, 4]
+Output: true
+
+
+6. Find the Majority Element in an Array
+The majority element in an array is the element that appears more than
+n/2 times. Write a program to find the majority element.
+Example:
+Input: [3, 3, 4, 2, 4, 4, 2, 4, 4]
+Output: 4
+
+
+7. Find the Kth Largest or Smallest Element in an Array
+Write a program to find the Kth largest or smallest element in an array.
+Example:
+Input: [3, 1, 4, 1, 5, 9, 2], K = 3
+Output: 4 (3rd largest element)
+
+
+8. Find the Intersection of Two Arrays
+Write a program to find the intersection of two arrays (i.e., common
+elements).
+Example:
+Input: arr1 = [1, 2, 3, 4], arr2 = [3, 4, 5, 6]
+Output: [3, 4]
+
+
+9. Check if an Array is Sorted
+
+
+Write a program to check if the elements in an array are sorted in
+ascending order.
+Example:
+Input: [1, 2, 3, 4]
+Output: true
+
+
+10. Find the Duplicates in an Array
+Write a program to find all the duplicate elements in an array.
+Example:
+Input: [1, 2, 3, 4, 2, 3, 5]
+Output: [2, 3]
+
+
+11. Rotate an Array
+Write a program to rotate an array k times to the right or left.
+Example:
+Input: [1, 2, 3, 4, 5], k = 2
+Output: [4, 5, 1, 2, 3] (Right rotation)
+
+
+12. Find the Longest Consecutive Sequence
+Given an unsorted array, find the longest consecutive elements sequence.
+Example:
+Input: [100, 4, 200, 1, 3, 2]
+Output: 4 (The longest consecutive sequence is [1, 2, 3, 4])
+
+
+13. Find the Union of Two Arrays
+Write a program to find the union of two arrays, where the union consists
+of all the elements from both arrays without duplicates.
+Example:
+Input: arr1 = [1, 2, 3], arr2 = [3, 4, 5]
+Output: [1, 2, 3, 4, 5]
+
+
+14. Find All Pairs with a Given Sum
+Write a program to find all pairs in an array that sum up to a given target
+value.
+Example:
+Input: [1, 4, 6, 2, 3, 7], Target Sum = 7
+Output: [(1, 6), (4, 3)]
+
+
+15. Find the First Missing Positive Integer
+Write a program to find the smallest missing positive integer in an
+unsorted array.
+Example:
+Input: [1, 2, 0]
+Output: 3
+
+
+16. Array Pair Sum Divisibility
+Write a program to check if the sum of every pair in the array is divisible
+by a given number k.
+Example:
+Input: [1, 3, 2, 6], k = 3
+Output: true (all pairs' sums are divisible by 3)
+
+
+17. Product of Array Except Self
+Write a program to return an array such that each element at index i is
+the product of all elements in the array except the element at index i.
+Example:
+Input: [1, 2, 3, 4]
+Output: [24, 12, 8, 6]
+
+
+18. Find the Largest Sum Subarray (Kadane's Algorithm)
+Write a program to find the maximum sum of a contiguous subarray
+within a one-dimensional numeric array.
+Example:
+Input: [-2, 1, -3, 4, -1, 2, 1, -5, 4]
+Output: 6 (The maximum sum subarray is [4, -1, 2, 1])
+
+
+19. Merge Two Sorted Arrays
+Write a program to merge two sorted arrays into one sorted array.
+Example:
+Input: arr1 = [1, 3, 5], arr2 = [2, 4, 6]
+Output: [1, 2, 3, 4, 5, 6]
+
+
+20. Find the Second Largest Element in an Array
+Write a program to find the second largest element in an array.
+Example:
+Input: [1, 5, 3, 9, 2]
+Output: 5
